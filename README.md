@@ -55,9 +55,12 @@ OPENROUTER_API_KEY=your_api_key_here
 
 ## ⚙️ Instalasi & Setup
 
-> 1️⃣ Clone Repository
- - git clone https://github.com/RfliFhri/chatbot-tester.git
- - cd chatbot-tester
+### 1️⃣ Clone Repository
+
+```bash
+ git clone https://github.com/RfliFhri/chatbot-tester.git
+ cd chatbot-tester
+```
 
 ## ⚙️ Environment Configuration
 
